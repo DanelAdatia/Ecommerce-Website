@@ -1,11 +1,11 @@
 {
     "products":[
-        { "id": 1, "productName": "iPhone", "price": 8900, "quantity": 0 },
-        { "id": 2, "productName": "Sony Camera", "price": 4500, "quantity": 0 },
-        { "id": 3, "productName": "Samsung QLED TV", "price": 7745, "quantity": 0 },
-        { "id": 4, "productName": "iPad pro", "price": 12400, "quantity": 0 },
-        { "id": 5, "productName": "Xbox", "price": 7780, "quantity": 0 },
-        { "id": 6, "productName": "Dell Monitor", "price": 880, "quantity": 0 }
+        { "id": 1, "productName": "Book", "price": 8900, "quantity": 0 },
+        { "id": 2, "productName": "Lens", "price": 4500, "quantity": 0 },
+        { "id": 3, "productName": "Notebook", "price": 7745, "quantity": 0 },
+        { "id": 4, "productName": "Mouse", "price": 12400, "quantity": 0 },
+        { "id": 5, "productName": "Keyboard", "price": 7780, "quantity": 0 },
+        { "id": 6, "productName": "Chocolate", "price": 880, "quantity": 0 }
     ],
     "users":[
         {"id":1, "email":"test@test.com", "password":"123"},
